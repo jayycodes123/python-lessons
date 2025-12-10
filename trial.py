@@ -4,7 +4,6 @@
 # c) Print an output like ΅Tavonga had: 45, 58, 69, 87. His average is 67/100 and the total 289/400΅
 # d) Grade each mark eg 45 - D, 78 - A, 55 - C 
 
-
 # Function to grade each mark
 def grade_mark(mark):
     if mark >= 75:
